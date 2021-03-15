@@ -3,11 +3,15 @@ class Translation(object):
 
 <code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKProjects</b>
 
+<b>Reply to that message with</b> <code>/rename New file name.extnsion</code>
+
 Press help button which is available at the bottom to know how to use me."""
 
     START_TEXT_1 = """Hai,
 
 <code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKPROJECTS</b>
+
+<b>Reply to that message with</b> <code>/rename New file name.extnsion</code>
 
 Press help button which is available at the bottom to know how to use me."""
 
