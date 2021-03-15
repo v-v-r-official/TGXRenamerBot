@@ -1,13 +1,13 @@
 class Translation(object):
     START_TEXT = """Hai,
 
-<code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<code>I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKProjects</b>
 
 Press help button which is available at the bottom to know how to use me."""
 
     START_TEXT_1 = """Hai,
 
-<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By:</b> <a href='https://t.me/Darklester'>Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<code> I'm a Simple File Renamer bot and can upload as File or Video With Permanent Thumbnail support!💯.</code> \n\n<b>Bot Created By: @VKPROJECTS</b>
 
 Press help button which is available at the bottom to know how to use me."""
 
@@ -19,16 +19,16 @@ Press help button which is available at the bottom to know how to use me."""
     UPLOAD_START_VIDEO = "<tt>Uploading as video...⬆️</tt>"
     UPLOAD_START = "<tt>Uploading as File...⬆️</tt>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations.I can't do anything for that 😢."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [TECHNOGRAM X](https://t.me/TGXTECH)'s bot.**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [VK PROJECTS](https://t.me/VKPROJECTS)'s bot 😀.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail SAVED ✅️. This image will be used in the File."
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/Vkp_Bots'>@VKP_BOTS</a>"
+    SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail SAVED ✅️. This image will be used in the File😀."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "<b>{}</b> \n\n@TGXTECH"
-    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
+    CUSTOM_CAPTION_UL_FILE = "<b>{}</b> \n\n@VKPROJECTS"
+    NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found🤒."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """<b>Hey! Here you can know how to use me</b>, 
     
@@ -42,13 +42,11 @@ Press help button which is available at the bottom to know how to use me."""
 
 4.◽<b>Send A Photo to make it as permanent Thumbnail</b>   
  
-<b>❤️ Made With Love:======= </b> @Chris_Carlo & @Darklester.
-
-<b>Thanks to My Boss :</b><a href="https://t.me/Darklester">Owner 👨‍🏫</a> and <a href='https://t.me/Chris_Carlo'>Chris Carlo 👨‍🎤</a>
+<b>❤️ Made With Love:======= </b> @VkProjects .
 
 
-🗣𝐃𝐢𝐬𝐜𝐮𝐬𝐬 𝐆𝐫𝐨𝐮𝐩: @TGXTECHGroup
-📢𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @TGXTECH"""
+🗣𝐃𝐢𝐬𝐜𝐮𝐬𝐬 𝐆𝐫𝐨𝐮𝐩: @VkP_Bots
+📢𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @VKPROJECTS"""
 
   
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for more information. "
@@ -61,47 +59,41 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Short your file name please.</b>
-©️ <code>@TGXTECH</code>
+©️ <code>@VKPROJECTS</code>
 Please short your file name and try again!"""
     ABOUT = """Hi {},
 
-🤖 My Name: [TGX Renamer Bot](t.me/RenamerTGXBOT)
+🤖 My Name: [Renamer Bot](t.me/RenamerTGXBOT)
     
 📝 Language: [Python 3](https://www.python.org/)
 
 📫 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 Developer: [Chris Carlo](https://t.me/Chris_Carlo)
+👨‍💻 Developer: [Vivek](https://t.me/ViveKTVP)
 
-📢 Channel: [TECHNOGRAM X](https://t.me/TGXTECH)
+📢 Channel: [VK PROJECTS](https://t.me/VKPROJECTS)
 
-👥 Group: [TGX SUPPORT GROUP](https://t.me/TGXTECHGroup)
+👥 Group: [VKP SUPPORT](https://t.me/VKP_BOTS)
 
 ⚖️ Credit: `Everyone in this journey`
 
-🌎 Server: [HEROKU](https://heroku.com)
-
-
-🛡️ Powered By: [DARKLESTER](https://t.me/Darklester)"""
+🌎 Server: [HEROKU](https://heroku.com)"""
 
 
 
     ABOUT_1 = """**MY DETAILS :**
-🤖 My Name: [TGX Renamer Bot](t.me/RenamerTGXBOT)
+🤖 My Name: [Renamer Bot](t.me/RenamerTGXBOT)
     
 📝 Language: [Python 3](https://www.python.org/)
 
 📫 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 Developer: [Chris Carlo](https://t.me/Chris_Carlo)
+👨‍💻 Developer: [Vivek](https://t.me/VivekTVP)
 
-📢 Channel: [TECHNOGRAM X](https://t.me/TGXTECH)
+📢 Channel: [VK PROJECTS](https://t.me/VKPROJECTS)
 
-👥 Group: [TGX SUPPORT GROUP](https://t.me/TGXTECHGroup)
+👥 Group: [VKP SUPPORT](https://t.me/VKP_BOTS)
 
 ⚖️ Credit: `Everyone in this journey`
 
-🌎 Server: [HEROKU](https://heroku.com)
-
-
-🛡️ Powered By: [DARKLESTER](https://t.me/Darklester)"""
+🌎 Server: [HEROKU](https://heroku.com)"""
